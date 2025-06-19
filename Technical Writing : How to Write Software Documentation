@@ -1,0 +1,25 @@
+Introduction to Software Documentation
+Technical Writing:
+Technical writing is a form of writing used to explain and communicate concepts related to a product or service to another person.It involves providing instructions on how to install, use, set up, configure, and maintain a product or service.
+
+Technical writers should not write common or general text. Their job is to turn technical information into content that others can easily understand. For example, if they are writing about software, the users may not know the features created by developers. So, technical writers need to explain how to use the software and how to handle it. Also, they shouldn’t focus only on writing. They should include diagrams or images wherever needed to make the content clearer.
+
+Technical writers may work under different job titles such as technical communicator, information developer, user assistance developer, information architect, publisher, business analyst, or support specialist.
+
+The job of the technical writer in software is to perform the process of planning, preparing, creating, structuring and organizing, classifying, delivering, and maintaining the product or service that will be provided to the end users.
+
+Types of Documentations:
+
+Functional Documentation - Functional documentation is meant for end-users who are using the product for the very first time. So, we need to clearly explain the initial setup and login process of the software product. It should provide a high-level overview of the product. Describe to the customers what they see on the screen
+
+Task Oriented Documentation - Task-oriented documentation is mainly used to answer questions like 'How to start' and 'How to use' the software. Here, we should not explain the screen or the meaning of each button. Instead, we should focus on how to achieve the results and outcomes of the scenario. If we are going to write about any software, we should first describe the installation process. Then, we need to explain specific configurations, define user roles, and outline permissions, roles, and access levels. This is the logical order for writing task-oriented documentation.
+
+
+Learn to write Software Documentation using Markdown GitHub Wiki
+
+GitHub is a website that hosts code and helps manage changes using Git, a version control system. It allows multiple people to collaborate on software projects.
+
+Documentation in GitHub - If you create a portfolio under the Wiki section in GitHub, you can easily share it with your manager or include the link in your resume.
+
+In Wiki pages, you write using a special markup language called Markdown. This language uses special characters to mark and format specific parts of the content, helping to organize it in a clear and structured way. In Wiki pages, we have clickable links, as well as options to format text in italic and bold.
+
